@@ -1,5 +1,3 @@
-#Colton Dean
-#Started April 8th and Finished on April 11th
 #C0741555
 #This program will take file paths using argparse and count the words, lines and chars contained within the file.
 
