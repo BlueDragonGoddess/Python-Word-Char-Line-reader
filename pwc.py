@@ -32,7 +32,6 @@ def safe_file_open(file_path):
 #
 def get_file_stats(file_path):
     print("Getting stats from %s ..." % file_path)
-    file = open(file_path)
     out = file.read()
     filestats = {
         "name":  file_path,
